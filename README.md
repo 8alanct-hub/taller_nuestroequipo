@@ -1,2 +1,3 @@
-# taller_nuestro_equipo
-Taller desarrollo de software 
+# tareasDesarrollodeSoftware
+Taller nuestro equipo
+App mi catalogo
